@@ -19,42 +19,26 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Languages  
+### Languages & Frameworks 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" height="50" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 20px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 20px" src="https://www.gstatic.com/devrel-devsite/prod/vb1ced391297bc14a319144801f3973a5566f797b5e6e07559760dc67c81bd3d3/tensorflow/images/lockup.svg" alt="TensorFlow" height="50" /></a>  
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" alt="PyTorch" height="50" /></a>  
+  <a href="https://keras.io/" target="_blank"><img style="margin: 20px" src="https://keras.io/img/logo.png" alt="Keras" height="50" /></a>  
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 20px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 20px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="50" /></a> 
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Frameworks  
+### Cloud & MLOps
 <div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="AWS" height="50" /></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 20px" src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="GCP" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" height="50" /></a>  
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 20px" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" alt="Azure" height="50" /></a>  
+  <a href="https://mlflow.org/" target="_blank"><img style="margin: 20px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="MLFlow" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjxDwlHSal7rkNZua5gkuT7iEwJ2yk1_V4RD3dGNTJw&s" alt="Docker" height="60" /></a>
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Cloud  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
