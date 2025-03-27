@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yeshasvini, a full-time Data Scientist and an Analyst working since 2018 🚀</div>  
+### <div align="center">I'm Yeshasvini, a full-time Bsuiness Analyst working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on Vector Embeddings  
